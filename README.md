@@ -30,3 +30,5 @@ enum Secrets {
 ## License
 
 [GPLv3](https://github.com/balance-io/Balance/blob/main/LICENSE)
+
+codecov
